@@ -1,1 +1,1 @@
-streamlit run app.py --server.port $PORT 
+streamlit run launcher.py --server.port $PORT
